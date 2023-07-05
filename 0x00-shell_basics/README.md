@@ -4,4 +4,5 @@ The second script returns to the home directory
 The third script list all files in long format (with user id)
 The fourth script list all files, including hidden in long format
 The fifth script list all files, including hidden in long format, but user ID in digits
-The sixth script makes a new directory called "my_first_directory" in the /tmp/ directory 
+The sixth script makes a new directory called "my_first_directory" in the /tmp/ directory
+The seventh script moves the betty file to /tmp/my_first_directory
