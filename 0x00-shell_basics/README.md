@@ -9,3 +9,4 @@ The seventh script moves the betty file to /tmp/my_first_directory
 The eight script deletes the betty file
 The ninth script deletes  my_first_directory
 The tenth script changes the working directory to the previous one
+The eleventh script lists all files(including hidden) in current dir, parent dir and /boot/
